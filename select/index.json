@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Their Stories Continue",
+  "base_artist": "NORIKIYO",
+  "createdAt": "2026-03-29T14:36:47.894319Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Their Stories Continue feat. D.O",
+      "artist": "NORIKIYO",
+      "has_synced": false,
+      "path": "select/pl_01_Their_Stories_Continue_feat._D.O_NORIKIYO.txt"
+    }
+  ]
+}
